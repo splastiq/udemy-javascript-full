@@ -1,4 +1,4 @@
-[# Полный курс по JavaScript - с нуля до результата](https://www.udemy.com/course/javascript_full/)
+# [Полный курс по JavaScript - с нуля до результата](https://www.udemy.com/course/javascript_full/)
 
 ## Раздел 2: Основы JavaScript
 - **Задание 1:** Подготавливаем проект к дальнейшим урокам
