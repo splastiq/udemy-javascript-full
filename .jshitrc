@@ -1,0 +1,12 @@
+{
+    "esversion": 7,
+    "jquery": true,
+    "camelcase": true,
+    "indent": 2,
+    "curly": true,
+    "strict": false,
+    "browser": true,
+    "undef": false,
+    "trailing": true,
+    "unused": true
+}
